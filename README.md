@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Este proyecto es una herramienta para validar si una expresión matemática tiene paréntesis, corchetes y llaves equilibrados. Es útil para comprobar la sintaxis de expresiones antes de evaluarlas.
+Este proyecto es una herramienta para validar si una expresión tiene paréntesis, corchetes y llaves equilibrados. Es útil para comprobar la sintaxis de expresiones antes de evaluarlas.
 
 ## Características
 
